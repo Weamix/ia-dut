@@ -21,7 +21,7 @@ body{
 .animation{
   margin: 0;
   padding: 0;
-  height:720px;
+  height:725px;
   overflow: hidden; /* pour que la div timeline ne vienne pas sur la div animation */
   position:relative; /* pour pouvoir inserer du texte sur les images */
   z-index:1;
@@ -39,17 +39,48 @@ body{
 .h {
 	float: right;
   z-index:1;
+  position: relative;
+  -webkit-animation: hfromright 10s;
+  animation: hfromright 5s;
+}
+
+@-webkit-keyframes hfromright{
+ 0%{
+       right:-2000px;
+   }
+
+   100% {
+      right:0px;
+   }
+
 }
 
 .r {
+  position: relative;
 	float: left;
   z-index:1;
+  -webkit-animation: rfromleft 10s;
+  animation: rfromleft 5s;
 }
+
+@-webkit-keyframes rfromleft{
+
+ from{
+        left:-2000px; 
+   }
+   to {
+      left: 0px;
+   }
+}
+
+
 
 img {
   width:50%;
   height:100%;
 }
+
+
 /* timeline */
 
 .timeline {
