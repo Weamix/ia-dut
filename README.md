@@ -11,5 +11,6 @@ contenu & mise en page : 30h
 26/12/2018: 4h51 (20h-0h51) = animation mains<br>
 27/12/2018: 40min (10h - 10h40) = menu<br>
 27/12/2018: 1h30 (13h - 14h30) = menu<br>
+27/12/2018: X (16h30 - X ) = machinea title js - separation des fichiers css - creation des differentes pages html<br>
 
 
