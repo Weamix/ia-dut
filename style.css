@@ -1,6 +1,6 @@
 *{
   font-family: sans-serif;
-  margin:0;
+  /*margin:0;*/
 }
 
 /* marges reduisant la taille du contenu affiché sur le naviguateur web */
@@ -11,9 +11,9 @@
 }
 
 body{
-	background-color:white;
-  margin: 0;
-  padding: 0;
+  background-color:white;
+    margin: 0;
+    padding: 0;
 }
  
 /* animation des mains (les images) + le titre */
@@ -37,10 +37,10 @@ body{
 }
 
 .h {
-	float: right;
+  float: right;
   z-index:1;
   position: relative;
-  -webkit-animation: hfromright 10s;
+  -webkit-animation: hfromright 3s;
   animation: hfromright 5s;
 }
 
@@ -57,9 +57,9 @@ body{
 
 .r {
   position: relative;
-	float: left;
+  float: left;
   z-index:1;
-  -webkit-animation: rfromleft 10s;
+  -webkit-animation: rfromleft 3s;
   animation: rfromleft 5s;
 }
 
@@ -78,6 +78,39 @@ body{
 img {
   width:50%;
   height:100%;
+}
+
+/* menu */
+
+#menu{
+	overflow: hidden;
+	position: fixed;
+    right: 1rem;
+    top: 30%;
+    width: 30px;
+    height: 160px;
+    z-index: 100;}
+
+#menu a {
+  	background-color: #feffa3;
+    display: block;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+    margin: 12px 8px;
+    text-decoration: none;
+    transition: all 500ms;
+    -o-transition: all 500ms;
+    -moz-transition: all 500ms;
+
+    -webkit-transition: all 500ms;;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
 }
 
 
