@@ -118,3 +118,31 @@ li a {
   text-decoration: none;
 }
 
+/* INTRODUCTION */
+
+#introduction p{
+  line-height: 150%;
+  font-size:15px;
+  padding-top:2%;
+}
+
+#introduction .in{
+  border-style: inset;
+  border-color:grey;
+  padding:5%;
+  border-radius: 5%;
+  width:800px;
+}
+
+#introduction{
+  margin:2%;
+}
+
+h1{
+  font-size: 34px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 20px;
+  width:500px;
+  margin: 0px auto;
+}
