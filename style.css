@@ -1,6 +1,6 @@
 *{
   font-family: sans-serif;
-  /*margin:0;*/
+  margin:0;
 }
 
 /* marges reduisant la taille du contenu affiché sur le naviguateur web */
@@ -27,12 +27,16 @@ body{
   z-index:1;
 }
 
-.animation .title{
+.animation #msg{
+  height: 12%;
+  width:50%;
+  color:black;
   position:absolute;
   top:50%; 
-  right:25%;
+  right:23%;
+  margin: 0 auto;
   z-index:2;
-  font-size:200%;
+  font-size:450%;
   color:#778899;
 }
 
@@ -86,17 +90,17 @@ img {
 	overflow: hidden;
 	position: fixed;
     right: 1rem;
-    top: 30%;
+    top: 45%;
     width: 30px;
-    height: 160px;
+    height: 200px;
     z-index: 100;}
 
 #menu a {
-  	background-color: #feffa3;
+  	background-color: black;
     display: block;
-    width: 12px;
-    height: 12px;
-    border-radius: 6px;
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
     margin: 12px 8px;
     text-decoration: none;
     transition: all 500ms;
