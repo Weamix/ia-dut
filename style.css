@@ -87,36 +87,60 @@ img {
 
 /* menu */
 
-#menu{
-	overflow: hidden;
-	position: fixed;
-    right: 1rem;
-    top: 45%;
-    width: 30px;
-    height: 200px;
-    z-index: 100;}
-
-#menu a {
-  	background-color: black;
-    display: block;
-    width: 16px;
-    height: 16px;
-    border-radius: 8px;
-    margin: 12px 8px;
-    text-decoration: none;
-    transition: all 500ms;
-    -o-transition: all 500ms;
-    -moz-transition: all 500ms;
-
-    -webkit-transition: all 500ms;;
+#menu button {
+  width: 100%;
+  cursor: pointer;
+  background: none;
+  border: 0;
+  margin:2px;
 }
 
-li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
+.circle {
+    display: block;
+    float: right;
+    width: 13px;
+    height: 13px;
+    background: black;
+    border-radius: 50%;
+}
+
+.title {
+    float: right;
+    margin-right: 12px;
+    font-size: 18px;
+    line-height: 13px;
+    color: yellow;
+    opacity: 1;
+}
+
+.title:hover {
+    opacity: 1;
+}
+
+#menu {
+    line-height: 20px;
+    position: fixed;
+    top: 50%;
+    right: 36px;
+    z-index: 10;
+    height: :100%;
+    line-height: 10px;
+}
+
+#menu ul{
+   list-style-type: none;
+   background-color: none;
+}
+
+#menu li{
+    display: list-item;
+}
+
+#menu a{
   text-decoration: none;
 }
+
+
 
 /* INTRODUCTION */
 
@@ -144,5 +168,27 @@ h1{
   text-transform: uppercase;
   padding: 20px;
   width:500px;
+  margin: 0px auto;
+}
+
+/* FOOTER */
+
+#footer{
+  position: relative;
+  z-index: 1;
+  min-height: 49px;
+  background: #000;
+}
+
+#footer a{
+  padding: 0 5px 0 5px;
+  text-decoration: none;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #fff;
+  letter-spacing: .005em;
+}
+
+#footer .in{
   margin: 0px auto;
 }
