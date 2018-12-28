@@ -13,7 +13,7 @@ contenu & mise en page : 30h
 27/12/2018: 1h30 (13h-14h30) = menu<br>
 27/12/2018: 2h30 (16h30-19h) = machinea title js - separation des fichiers css - creation des differentes pages html - introduction<br>
 28/12/2018: 3h (15h-18h) = fixation du menu<br>
-28/12/2018: X (20h-22h6) = 1h fixation pbs<br
+28/12/2018: 1h(20h-22h6) = 1h fixation pbs<br>
 X/12/2018: X (X-x) = x<br>
 X/12/2018: X (X-x) = x<br>
 X/12/2018: X (X-x) = x<br>
