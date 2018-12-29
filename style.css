@@ -1,5 +1,5 @@
 *{
-  font-family: "SourceSansPro","Helvetica Neue","Arial",sans-serif,"Asimov";
+  font-family: 'Lato',sans-serif;
   margin:0;
 }
 
@@ -58,10 +58,12 @@ body{
 @-webkit-keyframes hfromright{
  0%{
        right:-2000px;
+       top:-2000px;
    }
 
    100% {
       right:0px;
+      top:0px;
    }
 
 }
@@ -79,10 +81,12 @@ body{
 @-webkit-keyframes rfromleft{
 
  from{
-        left:-2000px; 
+       left:-2000px;
+       bottom:-2000px; 
    }
    to {
       left: 0px;
+      bottom:0px;
    }
 }
 
