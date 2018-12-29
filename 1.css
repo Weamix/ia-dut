@@ -6,6 +6,7 @@
   display:fixed;
   position: relative;
   margin: 0 auto;
+  padding-top:5%;
 }
 
 /* The actual timeline (the vertical ruler) */
@@ -102,7 +103,8 @@
 /* IFRAME VIDEO */
 
 .video {
-	padding-top:10%;
+	padding-top:5%;
+	padding-bottom: 5%;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
