@@ -15,7 +15,7 @@ contenu & mise en page : 30h
 28/12/2018: 3h (15h-18h) = fixation du menu<br>
 28/12/2018: 1h(20h-22h6) = fixation pbs<br>
 29/12/2018: 2h (13h-15h) = mise en page du contenu (slider+quotebox)x<br>
-29/12/2018: Xh (16h-Xh) = fixation de la hauteur de la div animation sur la version mobile<br>
+29/12/2018: 2h (16h-18h) = fixation de la hauteur de la div animation sur la version mobile + mise en page du contenu<br>
 X/12/2018: X (X-x) = x<br>
 X/12/2018: X (X-x) = x<br>
 X/12/2018: X (X-x) = x<br>
