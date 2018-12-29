@@ -219,6 +219,9 @@ img {
 	font-size:100px;
 	line-height:0.6em;
 	opacity:0.2;
+
+	position:relative;
+	top:30px;
 }
 
 #introduction p{
