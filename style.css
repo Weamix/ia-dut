@@ -4,10 +4,8 @@
 }
 
 @font-face {
-font-family: 'Asimov';
-src: url('Asimov.otf') format('truetype'),
-font-weight: normal;
-font-style: normal;
+  font-family: 'DK Face Your Fears';
+  src: url('DK Face Your Fears.ttf') format("truetype");
 }
 
 /* marges reduisant la taille du contenu affiché sur le naviguateur web */
@@ -168,23 +166,9 @@ img {
 
 /* INTRODUCTION */
 
-@-webkit-keyframes rollIn {
-  from {
-    opacity: 0;
-    -webkit-transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg);
-    transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg);
-  }
-
-  to {
-    opacity: 1;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-  }
-}
-
 #introduction p{
-  line-height: 150%;
-  font-size:100%;
+  line-height: 125%;
+  font-size:110%;
   padding-top:2%;
 }
 
@@ -209,15 +193,18 @@ img {
   float:left;
 }
 
-h1{
-  font-size: 34px;
+.in h1{
+  font-size: 350%;
   font-weight: bold;
   text-transform: uppercase;
-  font-style:Asimov;
+  font-family:DK Face Your Fears;
+  color:#ff5357;
   padding: 20px;
-  width:500px;
+  display: inline-block;
+  position: relative;
+  left:50%;
+  transform:translateX(-50%);
   margin: 0px auto;
-  -webkit-animation: rollIn 3s;
 }
 
 #introduction .quote {
@@ -229,9 +216,14 @@ h1{
 }
 
 #introduction .guillemets{
-	font-size:150px;
+	font-size:100px;
 	line-height:0.6em;
 	opacity:0.2;
+}
+
+#introduction p{
+	background-color: #F1F1F1;
+	padding: 2%;
 }
 
 #introduction p .quoting{
@@ -272,12 +264,16 @@ h1{
   
     #animation #msg{
     font-size:270%;
-    width:480px;
+    width:auto;
     margin:auto 0px;
   }
 
   #animation{
   height:auto;
+  }
+
+  #menu {
+    position:float;
   }
 
  }

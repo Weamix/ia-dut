@@ -21,7 +21,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 96%; /*s'applique à la largeur du .in*/
+  width: 100%; /*s'applique à la largeur du .in*/
   height: 100%;
   pointer-events: none;
   opacity: 0;
@@ -180,17 +180,17 @@
 @-webkit-keyframes controlAnimation-3 {
   0% {
     color: #ccc;
-    color: rgba(255, 255, 255, 0.4);
+    color: #778899;
   }
 
   9.5%, 33.3% {
     color: white;
-    color: rgba(255, 255, 255, 0.8);
+    color: #778899;
   }
 
   42.9%, 100% {
     color: #ccc;
-    color: rgba(255, 255, 255, 0.4);
+    color: #778899;
   }
 }
 
@@ -637,12 +637,11 @@
 }
 
 .gallery .control-button {
-  color: black;
+  color: #778899;
 }
 
 .gallery .control-button:hover {
-  color: white;
-  color: rgba(255, 255, 255, 0.8);
+  color: #778899;
 }
 
 /*
@@ -658,7 +657,6 @@
   overflow: hidden;
   text-align: justify;
   background: #F1F1F1;
-  padding: 2%;
 }
 
 .gallery .controls {
