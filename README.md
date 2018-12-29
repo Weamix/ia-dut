@@ -6,6 +6,8 @@ projet tutoré en 1ère année de DUT informatique: site sur l'intelligence arti
 contenu & mise en page : 30h  
 
   DEVELOPPEMENT DU SITE
+  
+  Progression : 40% ( 2 pages prêtes sur les 7)
 
 25/12/2018 : 2h (20h-22h) = timeline fixation<br>
 26/12/2018: 4h51 (20h-0h51) = animation mains<br>
