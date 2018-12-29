@@ -190,8 +190,8 @@ img {
 
 #introduction .in{
   /*border-style: inset;
-  border-color:grey;*/
-  padding:5%;
+  border-color:grey;
+  padding:5%;*/
   /*border-radius: 5%;*/
   width:800px;
 }
@@ -218,6 +218,28 @@ h1{
   width:500px;
   margin: 0px auto;
   -webkit-animation: rollIn 3s;
+}
+
+#introduction .quote {
+  color:black;
+  background-color:#F1F1F1;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  padding:0.01em 16px;
+}
+
+#introduction .guillemets{
+	font-size:150px;
+	line-height:0.6em;
+	opacity:0.2;
+}
+
+#introduction p .quoting{
+	/*margin-top:-40px;*/
+}
+
+.item h2{
+  text-align: center;
 }
 
 /* FOOTER */
@@ -252,6 +274,10 @@ h1{
     font-size:270%;
     width:480px;
     margin:auto 0px;
+  }
+
+  #animation{
+  height:auto;
   }
 
  }
