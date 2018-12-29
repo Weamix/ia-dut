@@ -16,7 +16,7 @@ contenu & mise en page : 30h
 28/12/2018: 1h(20h-22h6) = fixation pbs<br>
 29/12/2018: 2h (13h-15h) = mise en page du contenu (slider+quotebox)x<br>
 29/12/2018: 2h (16h-18h) = fixation de la hauteur de la div animation sur la version mobile + mise en page du contenu<br>
-29/12/2018: X (~20h-x) = Mains venant des coins - changement de la police - suppresion de l'animation sur la problematique<br>
+29/12/2018: 1h30 (~21h-22hx) = Mains venant des coins - changement de la police - suppresion de l'animation sur la problematique - footer provisoire - page d'acceuil fini<br>
 X/12/2018: X (X-x) = x<br>
 X/12/2018: X (X-x) = x<br>
 X/12/2018: X (X-x) = x<br>
