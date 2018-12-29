@@ -228,6 +228,15 @@ img {
 	top:30px;
 }
 
+#introduction .guillemets-2 {
+    font-size: 80px;
+    line-height: 0.6em;
+    opacity: 0.2;
+    position: relative;
+    top: 15px;
+    left: 90%;
+}
+
 #introduction p{
 	background-color: #F1F1F1;
 	padding: 2%;
@@ -243,25 +252,54 @@ img {
 
 /* FOOTER */
 
-#footer{
-  position: relative;
-  z-index: 1;
-  min-height: 49px;
-  background: #000;
+#footer {
+    display: block;
+    position: relative;
+    z-index: 1;
+    min-height: 49px;
+    background: #4C5069;
 }
 
-#footer a{
-  padding: 0 5px 0 5px;
-  text-decoration: none;
-  font-size: 1.1em;
-  font-weight: bold;
-  color: #fff;
-  letter-spacing: .005em;
+#footer a {
+    padding: 10px;
+    text-decoration: none;
+    font-size: 1em;
+    color: #fff;
+    letter-spacing: .005em;
+    text-align: center;
 }
 
 #footer .in{
   margin: 0px auto;
+  text-align: center;
 }
+
+ /* MENU TOP */
+
+.navbar {
+    display:fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(255,255,255, 0.1);
+    background-color: #4C5069;
+}
+
+.navbar li { 
+	float: left;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar li a:hover { background-color: rgba(0, 0, 0, 0.3); }
 
 /* VERSION MOBILE : NE RIEN METTRE EN DESSOUS DE LA VERSION MOBILE! */
 
