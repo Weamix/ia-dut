@@ -20,5 +20,5 @@ contenu & mise en page : 30h
 29/12/2018: 2h (16h-18h) = fixation de la hauteur de la div animation sur la version mobile + mise en page du contenu<br>
 29/12/2018: 3h30 (~21h-0h) = Mains venant des coins - changement de la police - suppresion de l'animation sur la problematique - footer provisoire - page d'acceuil fini - bouton "lire la suite"<br>
 30/12/2018: 1h (13h20-14h16) = fixation navbar - indentation <br>
-X/12/2018: X (X-x) = x<br>
+30/12/2018: 7h (17h-0h) = Partie avantages fini - [upload partie 2 - 3 + conclusion] = à finir <br>
 X/12/2018: X (X-x) = x<br>
