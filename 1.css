@@ -1,3 +1,7 @@
+.timeline p{
+	font-size: 110%;
+}
+
 /* timeline */
 
 .timeline {
@@ -15,8 +19,8 @@
 	position: absolute;
 	width: 6px;
 	background-color: black;
-	top: 0;
-	bottom: 18%;
+	top: 1%;
+	bottom: 21%;
 	left: 50%;
 	margin-left: -3px;
 }
@@ -97,7 +101,7 @@
 
 .content {
 	padding: 20px 30px;
-	background-color: #D7C6CC;
+	background-color: #F1F1F1;
 	position: relative;
 	border-radius: 6px;
 }
