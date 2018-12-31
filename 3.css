@@ -1,0 +1,10 @@
+img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+}
+
+p{
+	line-height: 30px;
+}
