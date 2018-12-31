@@ -21,4 +21,5 @@ contenu & mise en page : 30h
 29/12/2018: 3h30 (~21h-0h) = Mains venant des coins - changement de la police - suppresion de l'animation sur la problematique - footer provisoire - page d'acceuil fini - bouton "lire la suite"<br>
 30/12/2018: 1h (13h20-14h16) = fixation navbar - indentation <br>
 30/12/2018: 7h (17h-0h) = Partie avantages fini - [upload partie 2 - 3 + conclusion] = à finir <br>
-31/12/2018: X (11h30-x) = Partie 1 + Partie 2 finis + ... <br>
+31/12/2018: 3h30 (11h30-15h) = Partie 1 + Partie 2 finis + partie 3 upload + footer modifie sur toutes les pages (ajoute de la page sources)<br>
+31/12/2018: X (17h15- X)
