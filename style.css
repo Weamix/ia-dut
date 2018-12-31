@@ -313,6 +313,8 @@ body {
   z-index: 1;
   min-height: 49px;
   background: #4C5069;
+  line-height: 20px;
+  margin-bottom: 0%;
 }
 
 #footer a {
@@ -375,4 +377,9 @@ body {
     height: 725px;
     min-height: 10vh;
   }
+
+  #menu{
+    display:none;
+  }
+  
 }
