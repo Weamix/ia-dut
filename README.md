@@ -24,4 +24,6 @@ X/10/2018 au X/12/2018 : 9h de projet tutoré en cours = menu - script machinea 
 31/12/2018: 3h30 (11h30-15h) = Partie 1 + Partie 2 finis + partie 3 upload + footer modifie sur toutes les pages (ajoute de la page sources)<br>
 31/12/2018: 6h (17h15- 23h23) = PARTIE 3 fixation + conclusion fixation + sources + contact + version anglaise + finalisation responsive
 
+11/01/2019: 2h (23h-1h) = tentative pour régler le problème d'affichage sous Firefox...
+
 TOTAL DEV ~ 50h 
