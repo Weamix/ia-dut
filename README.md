@@ -26,5 +26,7 @@ X/10/2018 au X/12/2018 : 9h de projet tutoré en cours = menu - script machinea 
 
 11/01/2019: 2h (23h-1h) = tentative pour régler le problème d'affichage sous Firefox...
 12/01/2019: 3h (13h30-16h30) = début de résolution au problème avec firefox - refonte du responsive
+12/01/2019: 1h (18h-19h) = suite refonte responsive
+12/01/2019: (20h- X) = refonte responsive
 
 TOTAL DEV ~ 50h 
