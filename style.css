@@ -195,8 +195,12 @@ body {
 }
 
 .iut {
+	background-image: url(iutlittoral-logo.png);
+	background-repeat: no-repeat;
+	width: 328px;
+	height: 140px;
 	padding: 0;
-	display: block;
+	float: left;
 }
 
 .pb {
@@ -253,14 +257,10 @@ body {
 
 /* BOUTON LIRE LA SUITE */
 
-.readDiv {
-	text-align: right;
-	width: 100%;
-}
-
 .read {
 	margin: 1%;
 	position: relative;
+	left: 80%;
 }
 
 .read a {
@@ -373,32 +373,19 @@ body {
 /* VERSION MOBILE : NE RIEN METTRE EN DESSOUS DE LA VERSION MOBILE! */
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 720px) {
-	.in {
-		width: 100%;
-	}
-	#introduction .in {
-		width: 100%;
-	}
-	#animation {
-		height: 260px;
-		min-height: initial;
-	}
 	#animation #msg {
 		font-size: 270%;
 		width: auto;
 		margin: auto 0px;
-		left: 10px;
-		top: 2%;
-		height: initial;
-		bottom: 0;
 	}
 	#animation img {
-		width: 100%;
+		width: 50%;
+		min-height: 10vh;
 		height: 100%;
-		position: absolute;
-		min-width: initial;
-		min-height: initial;
-		height: inherit;
+	}
+	#animation {
+		height: 725px;
+		min-height: 10vh;
 	}
 	#menu {
 		display: none;
