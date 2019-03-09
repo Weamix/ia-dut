@@ -9,7 +9,7 @@ contenu & mise en page : 30h avec l'aide d'Olivia Goguillon
 
   VIDEO DU SITE
   
-48h de montage vidéo
+48h de montage vidéo +
 4h d'enregistrement
 
   DEVELOPPEMENT DU SITE par Vitse Maxime
