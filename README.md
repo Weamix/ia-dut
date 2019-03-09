@@ -7,6 +7,11 @@ Remerciement pour leurs conseils à Christophe Vitse, Pommier Mathys, Yohann Moy
 
 contenu & mise en page : 30h avec l'aide d'Olivia Goguillon
 
+  VIDEO DU SITE
+  
+48h de montage vidéo
+4h d'enregistrement
+
   DEVELOPPEMENT DU SITE par Vitse Maxime
 
 X/10/2018 au X/12/2018 : 9h de projet tutoré en cours = menu - script machinea - animations mains - timeline - debut des pages - footer..
