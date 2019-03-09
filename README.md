@@ -1,13 +1,13 @@
 # ia-dut
-projet tutoré en 1ère année de DUT informatique: site sur l'intelligence artificielle
+Projet tutoré en 1ère année réalise par Vitse Maxime de DUT informatique: site sur l'intelligence artificielle
 
 Remerciement pour leurs conseils à Christophe Vitse, Pommier Mathys, Yohann Moy, Adrien Ceronne et Antoine Sauvage :)
 
   CONTENU DU SITE 
 
-contenu & mise en page : 30h  
+contenu & mise en page : 30h avec l'aide d'Olivia Goguillon
 
-  DEVELOPPEMENT DU SITE
+  DEVELOPPEMENT DU SITE par Vitse Maxime
 
 X/10/2018 au X/12/2018 : 9h de projet tutoré en cours = menu - script machinea - animations mains - timeline - debut des pages - footer..
 
