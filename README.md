@@ -1,7 +1,7 @@
 # ia-dut
-Projet tutoré en 1ère année réalise par Vitse Maxime et Goguillon Olivia en DUT informatique: un site sur l'intelligence artificielle
+Projet tutoré en 1ère année réalisé par Vitse Maxime et Goguillon Olivia en DUT informatique: un site sur l'intelligence artificielle
 
-Remerciement pour leurs conseils à Christophe Vitse, Pommier Mathys, Yohann Moy, Adrien Ceronne et Antoine Sauvage :)
+Remerciement (pour leurs conseils et avis) à Christophe Vitse, Pommier Mathys, Yohann Moy, Adrien Ceronne et Antoine Sauvage :)
 
   CONTENU DU SITE par Vitse Maxime & Olivia Goguillon
 
